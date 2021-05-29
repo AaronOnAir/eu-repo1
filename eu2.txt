@@ -1,1 +1,2 @@
 Starting work 2
+amaskring multiple commits then pushing to remote
